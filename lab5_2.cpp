@@ -13,7 +13,7 @@ return x*cos(xr)+y*cos(yr);
 double findYComponent(double x,double y,double xr,double yr){
 return x*sin(xr)+y*sin(yr);
 }
-double pythagoras(double x,double y){1
+double pythagoras(double x,double y){
 return sqrt(x*x+y*y);
 }
 void showResult(double x,double y)
